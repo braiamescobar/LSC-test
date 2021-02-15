@@ -1,0 +1,6 @@
+GRUPO,SUBGRUPO,GIF,ICON,PREGUNTA,RESPUESTA,¿Hace cuánto tiempo?,¿Recibe algún tratamiento?,¿Con qué frecuencia?,
+ANTECEDENTES PERSONALES,Hábitos y estilos de vida,test5.gif,1_icon.png,¿Consume cigarillo?,SI/NO,N -DIA/MES/AÑO,SI/NO,VECES - DIA/MES/AÑO,
+ANTECEDENTES PERSONALES,Hábitos y estilos de vida,test5.gif,2_icon.png,¿Consume licor?,SI/NO,N -DIA/MES/AÑO,SI/NO,VECES - DIA/MES/AÑO,
+ANTECEDENTES PERSONALES,Hábitos y estilos de vida,test5.gif,3_icon.png,¿Ha consumido drogas (Sustancias Psicoactivas)?,SI/NO,N -DIA/MES/AÑO,,VECES - DIA/MES/AÑO,
+ANTECEDENTES PERSONALES,Hábitos y estilos de vida,test5.gif,4_icon.png,¿Realiza actividad física?,SI/NO,N -DIA/MES/AÑO,,VECES - DIA/MES/AÑO,
+ANTECEDENTES PERSONALES,Hábitos y estilos de vida,test5.gif,5_icon.png,¿Realiza actividades ludicas y recreativas?,SI/NO,N -DIA/MES/AÑO,,VECES - DIA/MES/AÑO,
